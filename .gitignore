@@ -1,0 +1,11 @@
+# node module
+/node_modules/
+
+# vscode config
+/.vscode/
+
+# next temp folder
+.next/
+
+# next export folder
+out/
