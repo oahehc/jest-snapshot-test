@@ -18,16 +18,16 @@ ShallowWrapper {
     "props": Object {
       "children": Array [
         <JSXStyle
-          css="p.jsx-2982525546{color:red;}"
-          styleId="2982525546"
+          css="p.jsx-232666004{color:red;}"
+          styleId="232666004"
         />,
         <p
-          className="jsx-2982525546"
+          className="jsx-232666004"
         >
           Hello World!
         </p>,
       ],
-      "className": "jsx-2982525546",
+      "className": "jsx-232666004",
     },
     "ref": null,
     "rendered": Array [
@@ -36,8 +36,8 @@ ShallowWrapper {
         "key": undefined,
         "nodeType": "class",
         "props": Object {
-          "css": "p.jsx-2982525546{color:red;}",
-          "styleId": "2982525546",
+          "css": "p.jsx-232666004{color:red;}",
+          "styleId": "232666004",
         },
         "ref": null,
         "rendered": null,
@@ -49,7 +49,7 @@ ShallowWrapper {
         "nodeType": "host",
         "props": Object {
           "children": "Hello World!",
-          "className": "jsx-2982525546",
+          "className": "jsx-232666004",
         },
         "ref": null,
         "rendered": "Hello World!",
@@ -66,16 +66,16 @@ ShallowWrapper {
       "props": Object {
         "children": Array [
           <JSXStyle
-            css="p.jsx-2982525546{color:red;}"
-            styleId="2982525546"
+            css="p.jsx-232666004{color:red;}"
+            styleId="232666004"
           />,
           <p
-            className="jsx-2982525546"
+            className="jsx-232666004"
           >
             Hello World!
           </p>,
         ],
-        "className": "jsx-2982525546",
+        "className": "jsx-232666004",
       },
       "ref": null,
       "rendered": Array [
@@ -84,8 +84,8 @@ ShallowWrapper {
           "key": undefined,
           "nodeType": "class",
           "props": Object {
-            "css": "p.jsx-2982525546{color:red;}",
-            "styleId": "2982525546",
+            "css": "p.jsx-232666004{color:red;}",
+            "styleId": "232666004",
           },
           "ref": null,
           "rendered": null,
@@ -97,7 +97,7 @@ ShallowWrapper {
           "nodeType": "host",
           "props": Object {
             "children": "Hello World!",
-            "className": "jsx-2982525546",
+            "className": "jsx-232666004",
           },
           "ref": null,
           "rendered": "Hello World!",
