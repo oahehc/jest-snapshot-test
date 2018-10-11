@@ -106,3 +106,6 @@ reproduce snapshot format error for Next.js + styled-jsx
 ```
 
 ---
+# Solution
+### [react-test-renderer branch](https://github.com/oahehc/jest-snapshot-test/tree/react-test-renderer) : next@7.0.1 + styled-jsx@3.1.0
+#### Instead of using enzyme, use react-test-renderer for snapshot test 
