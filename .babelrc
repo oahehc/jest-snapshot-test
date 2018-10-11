@@ -1,3 +1,14 @@
 {
-  "presets": ["next/babel"]
+  "presets": [["next/babel", { "preset-env": { "modules": "commonjs" } }]],
+  "env": {
+    "production": {
+      "plugins": ["styled-jsx/babel"]
+    },
+    "development": {
+      "plugins": ["styled-jsx/babel"]
+    },
+    "test": {
+      "plugins": ["styled-jsx/babel-test"]
+    }
+  }
 }
