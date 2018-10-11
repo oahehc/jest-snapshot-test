@@ -2,8 +2,9 @@
 
 exports[`With Snapshot Testing App shows "Hello world!" 1`] = `
 ShallowWrapper {
+  "length": 1,
   Symbol(enzyme.__root__): [Circular],
-  Symbol(enzyme.__unrendered__): <_default />,
+  Symbol(enzyme.__unrendered__): <Unknown />,
   Symbol(enzyme.__renderer__): Object {
     "batchedUpdates": [Function],
     "getNode": [Function],
@@ -18,16 +19,16 @@ ShallowWrapper {
     "props": Object {
       "children": Array [
         <JSXStyle
-          css="p.jsx-2982525546{color:red;}"
-          styleId="2982525546"
+          css="p.jsx-232666004{color:red;}"
+          styleId="232666004"
         />,
         <p
-          className="jsx-2982525546"
+          className="jsx-232666004"
         >
           Hello World!
         </p>,
       ],
-      "className": "jsx-2982525546",
+      "className": "jsx-232666004",
     },
     "ref": null,
     "rendered": Array [
@@ -36,8 +37,8 @@ ShallowWrapper {
         "key": undefined,
         "nodeType": "class",
         "props": Object {
-          "css": "p.jsx-2982525546{color:red;}",
-          "styleId": "2982525546",
+          "css": "p.jsx-232666004{color:red;}",
+          "styleId": "232666004",
         },
         "ref": null,
         "rendered": null,
@@ -49,7 +50,7 @@ ShallowWrapper {
         "nodeType": "host",
         "props": Object {
           "children": "Hello World!",
-          "className": "jsx-2982525546",
+          "className": "jsx-232666004",
         },
         "ref": null,
         "rendered": "Hello World!",
@@ -66,16 +67,16 @@ ShallowWrapper {
       "props": Object {
         "children": Array [
           <JSXStyle
-            css="p.jsx-2982525546{color:red;}"
-            styleId="2982525546"
+            css="p.jsx-232666004{color:red;}"
+            styleId="232666004"
           />,
           <p
-            className="jsx-2982525546"
+            className="jsx-232666004"
           >
             Hello World!
           </p>,
         ],
-        "className": "jsx-2982525546",
+        "className": "jsx-232666004",
       },
       "ref": null,
       "rendered": Array [
@@ -84,8 +85,8 @@ ShallowWrapper {
           "key": undefined,
           "nodeType": "class",
           "props": Object {
-            "css": "p.jsx-2982525546{color:red;}",
-            "styleId": "2982525546",
+            "css": "p.jsx-232666004{color:red;}",
+            "styleId": "232666004",
           },
           "ref": null,
           "rendered": null,
@@ -97,7 +98,7 @@ ShallowWrapper {
           "nodeType": "host",
           "props": Object {
             "children": "Hello World!",
-            "className": "jsx-2982525546",
+            "className": "jsx-232666004",
           },
           "ref": null,
           "rendered": "Hello World!",
@@ -119,8 +120,6 @@ ShallowWrapper {
         },
       },
     },
-    "attachTo": undefined,
-    "hydrateIn": undefined,
   },
 }
 `;
